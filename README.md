@@ -169,3 +169,7 @@ uv run pytest
 - The repository has been renamed away from its earlier Rime-specific goal, but some older planning notes in the repo still refer to the historical workflow.
 - The public CLI now targets dataset construction first.
 - The Hugging Face export is generated from reviewed step 6 outputs, not directly from the raw source dataset.
+
+## Support
+
+If you feels this tool is helpful, maybe considered buying me [a cup of coffee](https://ko-fi.com/kareudon).
