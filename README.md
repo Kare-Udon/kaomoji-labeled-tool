@@ -9,6 +9,8 @@ If you are an AI agent, read `AGENTS.md` before using repository tools. Follow t
 
 `kaomoji-labeled-tool` is a dataset-building toolkit for cleaning, labeling, reviewing, and exporting kaomoji records.
 
+Finished dataset: `https://huggingface.co/datasets/kareudon/kaomoji-tagged`
+
 It starts from a raw source dataset with `original_tags` and `new_tags`, applies a rule-based normalization pipeline, prepares selected samples for LLM annotation, supports manual review of proposed new tags, and exports a final Hugging Face-ready dataset package.
 
 ## What This Repository Does
