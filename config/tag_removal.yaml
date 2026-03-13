@@ -1,0 +1,18 @@
+exact:
+  - popular
+  - featured
+  - new
+  - trending
+  - top
+  - hot
+  - latest
+  - recommended
+  - favorite
+  - favourite
+patterns:
+  - "#\\d+"
+  - "day\\s*#"
+  - "set\\s*#"
+  - "collection"
+  - "pack"
+  - "series"

@@ -1,0 +1,27 @@
+[project]
+name = "kaomoji-labeled-tool"
+version = "0.1.0"
+description = "Kaomoji 标注与数据集构建工具"
+authors = [
+    { name = "Kare-Udon", email = "laoliu735@gmail.com" }
+]
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.9.0",
+    "pillow>=12.1.1",
+    "pyarrow>=23.0.1",
+    "pyyaml>=6.0.3",
+    "socksio>=1.0.0",
+]
+
+[project.scripts]
+kaomoji-labeled-tool = "kaomoji_labeled_tool:main"
+
+[build-system]
+requires = ["uv_build>=0.10.9,<0.11.0"]
+build-backend = "uv_build"
+
+[dependency-groups]
+dev = [
+    "pytest>=9.0.2",
+]

@@ -1,0 +1,23 @@
+lemma_map:
+  sobbing: crying
+  cry: crying
+  teary: tears
+  blush: blushing
+  smile: smiling
+  grin: grinning
+  kiss: kissing
+  wave: waving
+  bow: bowing
+  think: thinking
+  sleep: sleeping
+  surprise: surprised
+  anger: angry
+  embarrass: embarrassed
+semantic_map:
+  in love: love
+  kissed face: kissing
+  giving love: love
+  cute face: cute
+  sad face: sad
+  cry face: crying
+  tearful: crying

@@ -1,0 +1,54 @@
+crying:
+  zh:
+    - 哭
+    - 哭泣
+    - 流泪
+  ja:
+    - 泣く
+    - 涙
+  en:
+    - cry
+    - crying
+    - sob
+love:
+  zh:
+    - 爱
+    - 喜欢
+    - 心动
+  ja:
+    - 好き
+    - 愛
+    - 恋
+  en:
+    - love
+    - crush
+blushing:
+  zh:
+    - 害羞
+    - 脸红
+  ja:
+    - 照れ
+    - 恥ずかしい
+  en:
+    - blush
+    - blushing
+happy:
+  zh:
+    - 开心
+    - 高兴
+  ja:
+    - 嬉しい
+    - 楽しい
+  en:
+    - happy
+    - joy
+sad:
+  zh:
+    - 难过
+    - 伤心
+  ja:
+    - 悲しい
+    - しょんぼり
+  en:
+    - sad
+    - upset
